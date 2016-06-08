@@ -26,18 +26,6 @@
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
         <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
     </scm>
-    <repositories>
-        <repository>
-            <id>wakaleo-releases</id>
-            <name>Wakaleo Releases</name>
-            <url>http://www.wakaleo.com/maven/repos/</url>
-        </repository>
-        <repository>
-            <id>wakaleo-releases-2</id>
-            <name>Wakaleo Releases 2</name>
-            <url>http://maven.wakaleo.com/releases/</url>
-        </repository>
-    </repositories>
     <build>
         <plugins>
             <plugin>
